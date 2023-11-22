@@ -1,0 +1,17 @@
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\bin\Debug\net6.0-windows\C# - Zar Oyunu.exe
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\bin\Debug\net6.0-windows\C# - Zar Oyunu.deps.json
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\bin\Debug\net6.0-windows\C# - Zar Oyunu.runtimeconfig.json
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\bin\Debug\net6.0-windows\C# - Zar Oyunu.dll
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\bin\Debug\net6.0-windows\C# - Zar Oyunu.pdb
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\C# - Zar Oyunu.csproj.AssemblyReference.cache
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\C____Zar_Oyunu.Form1.resources
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\C# - Zar Oyunu.csproj.GenerateResource.cache
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\C# - Zar Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\C# - Zar Oyunu.AssemblyInfoInputs.cache
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\C# - Zar Oyunu.AssemblyInfo.cs
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\C# - Zar Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\C# - Zar Oyunu.dll
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\refint\C# - Zar Oyunu.dll
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\C# - Zar Oyunu.pdb
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\C# - Zar Oyunu.genruntimeconfig.cache
+C:\Users\Casper\OneDrive\kod\C# - Zar Oyunu\C# - Zar Oyunu\obj\Debug\net6.0-windows\ref\C# - Zar Oyunu.dll
